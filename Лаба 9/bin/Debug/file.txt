@@ -1,0 +1,23 @@
+Since there are many free web hosting services out there, it is important to know how you will find the right one that is suitable for your requirements. The following suggestions may be helpful:
+
+1. Storage Space: Must be enough to take care of your present needs and future needs. If you are expecting to add more content or information you have to select a service that will give you adequate space sufficient enough atleast for a few years.
+
+2. Advertisements: See what type of advertisements are allowed on the site. If the hosting service inserts pop ups and pop downs in each page you will be at a disadvantage at your site visitors may not like it. Text links from the hosting service is a better option. Better still if they allow you to host your own banners and text links besides theirs. Some services also let you register your site with other advertisers to earn some revenue through pay per clicks or commission based sales.
+
+3. Tools: See what tools and resources the hosting service provides besides the storage space. Some hosting services are extra generous in providing free website building tools, scripts to make your site more interactive and options to create secure web pages. Some hosting services even allow you to point your site to a registered domain, besides letting your have free email accounts with your own domain.
+
+4. Bandwidth: This is a very important consideration. Many free web hosting services provided limited bandwidth, which means your site will have problems or it may be on hold once it exceeds the specified bandwidth. Look for a service that provides adequate bandwidth depending upon what your needs are.
+
+5. Technolgy Platform: If you are aiming to build a website that uses propriety technology such as asp or . net or MS SQL you may have to select a hosting service that provides matching technology platform such as windows platform. If you intend to build a database driven website you may have to see whether your database is compatible with the hosting environment and whether your hosting company can protect it form unauthorized intrusion or data corruption.
+
+6. Reliability: Make sure that the hosting service has adequate resources and technical know how to maintain and manage your website/s in the long run. Check their background, how many sites they are hosting, how secure are their servers, how they are growing and what is their source of revenue other than advertisement revenue.
+
+7. Privacy Concerns: Your hosting service may run programs in the background on the server side to gather information about the visitors who might visit your site. Check their privacy policy and how they use the information.
+
+8. Reputation: Do a few searches on the hosting service to know their background. You can type in the name of the hosting service followed by key words like "complaints", "problems", "problem history", etc. in the search engine text box to find out what others are saying about the service.
+
+9.Location: If the hosting service is from a different country, make yourself familiar with the legal aspects of doing business with a foreign company. See what are the risks involved and how comfortable you are doing business with them. Make sure that you or your site visitors do not become victims of scam artists and con men of the internet. See what protection or remedy you can expect from the local laws applicable to the hosting company in the event your run into problems.
+
+Free web hosting services are actually free in a very limited sense. The service comes with many limitations and its users have little choice in making important decisions about their websites. They are more suitable for family websites and personal home pages and for learning purposes. But if you are intending to do some serious business or open an e-commerce website read the terms and conditions carefully and consider all the pros and cons.
+
+Nowadays many hosting services are offering basic plans at dirt cheap prices like a dollar a month or so. Some higher plands are avilable for great discounts if you opt for long term hosting. It makes sense to opt for these plans rather than free hosting where the ads are not under your control. Companikes like GoDaddy.com offer a free hosting plans if you register your domans with them.

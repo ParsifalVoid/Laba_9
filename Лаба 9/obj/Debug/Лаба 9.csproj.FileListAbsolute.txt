@@ -1,0 +1,8 @@
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\bin\Debug\Лаба 9.exe.config
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\bin\Debug\Лаба 9.exe
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\bin\Debug\Лаба 9.pdb
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\obj\Debug\Лаба 9.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\obj\Debug\Лаба 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\obj\Debug\Лаба 9.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\obj\Debug\Лаба 9.exe
+C:\Users\Пользователь\Desktop\С#\Лаба 9\Лаба 9\Лаба 9\obj\Debug\Лаба 9.pdb
